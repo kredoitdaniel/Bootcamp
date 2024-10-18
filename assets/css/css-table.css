@@ -1,0 +1,20 @@
+table {
+    width: 300px;
+    /* height: 200px; */
+    /* empty-cells: hide; */
+    border-collapse: collapse;
+    /* border-spacing: horizontal vertical; */
+    /* border-spacing: 30px 15px; */
+    /* border: border-width border-style border-color  */
+    border: 1px solid black;
+}
+
+tbody tr td {
+    text-align: center;
+}
+
+thead {
+    background-color: palevioletred;
+    color: white;
+}
+

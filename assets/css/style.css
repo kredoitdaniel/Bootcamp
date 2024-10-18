@@ -1,0 +1,17 @@
+.overflow {
+    height: 200px;
+    width: 200px;
+    border: 1px solid red;
+    overflow: scroll;
+}
+
+.box-shadow { 
+    /* box-shadow: h-offset v-offset blur spread color; */
+    box-shadow: 10px 15px 10px 5px red;
+    border:  1px solid black;
+    width: 300px;
+    margin-top: 10px;
+    /* margin: auto; */
+    margin-left: auto;
+    margin-right: auto;
+}
